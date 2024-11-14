@@ -1,6 +1,6 @@
 # Cytocypher Data Extraction Script
 
-This repository contains a Python script for extracting key metrics from Cytocypher “individual transients” .xlsx files. The script identifies specific columns for analysis and outputs the data in a combined text file.
+This repository contains a Python script for extracting key metrics from Ion-Optix Cytocypher “individual transients” .xlsx files. The script identifies specific columns for analysis and outputs the data in a combined text file.
 
 ## Features
 - Reads data from multiple sheets in an Excel file.
