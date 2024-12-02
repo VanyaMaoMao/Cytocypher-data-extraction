@@ -29,4 +29,4 @@ A text file combined_data.txt will be generated in the specified output folder c
 1. Ensure that the Excel file has the specified column names: 'Peak height', 'Departure velocity', 'Return velocity', and 'Percentage of shortening'.
 2. If any of these columns are missing from a sheet, the script will skip that sheet and print a warning message. Normally, you will see three messages when the code processes sheets with average data. 
 3. Do not forget to define the input and output file path.
-4. You can delete or change analysed parameters based on your needs (eg Time to Peak or Time to Base 90).
+4. You can delete/change/add analysed parameters based on your needs (eg Time to Peak or Time to Base 90).
