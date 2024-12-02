@@ -46,10 +46,10 @@ Delete all rows related to EdgeLength.
 Average the remaining values for each metric after removing outliers in column M (RatioMetricCalcium and SarcomereLength).
 
 ## **Transfer Processed Data to Sheet2:**
-Copy columns A (Segment Names) and M (Processed Average Data) related to the RatioMetricCalcium from Sheet1 to Sheet2.
-Insert cells with an INDIRECT formula from "example" file for data referencing. 
-Copy columns A (Segment Names) and M (Processed Average Data) related to the SarcomereLength from Sheet1 to Sheet3.
-Insert cells with an INDIRECT formula from "example" file for data referencing. 
+1. Copy columns A (Segment Names) and M (Processed Average Data) related to the RatioMetricCalcium from Sheet1 to Sheet2.
+2. Insert cells with an INDIRECT formula from "example" file for data referencing. 
+3. Copy columns A (Segment Names) and M (Processed Average Data) related to the SarcomereLength from Sheet1 to Sheet3.
+4. Insert cells with an INDIRECT formula from "example" file for data referencing. 
 
 ## **Organize Data for Final Analysis:**
 
